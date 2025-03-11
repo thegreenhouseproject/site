@@ -2172,10 +2172,10 @@ queue-microtask@^1.2.2:
   resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
-react-datepicker@^8.0.0:
-  version "8.0.0"
-  resolved "https://registry.yarnpkg.com/react-datepicker/-/react-datepicker-8.0.0.tgz#a27f131e3faecad8c4d9b5ec63d106bd015c5107"
-  integrity sha512-OmWkFx3BGPXQhBdhFCZyfqR6n2Z5T3WaEXQxz0tdTY6zNntklnIDkaDSYsbKwy7TcyBgeoneG5f4sCwmFPJ4eA==
+react-datepicker@^8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/react-datepicker/-/react-datepicker-8.2.0.tgz#7dfe1fe92c4c2498491094e23141c6c32c99a55f"
+  integrity sha512-zmUSOKxLrdYA6+etDU8N/w3vC9BZ4qRQ9azvp1seFgW4kk7QZJLB9aB7PJcw/EYWOK/1X7un9rUMXWPlcuZ4dw==
   dependencies:
     "@floating-ui/react" "^0.27.3"
     clsx "^2.1.1"
